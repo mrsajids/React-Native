@@ -1,0 +1,8 @@
+icons
+https://oblador.github.io/react-native-vector-icons/
+
+native paper
+https://callstack.github.io/react-native-paper/docs/components/ActivityIndicator
+
+ dummmy pics awesome 
+ https://picsum.photos/800 
